@@ -7,7 +7,7 @@
 <div class="navigation-wrapper">
 <div class="navigation-inner">
 <div class="site-logo">
-<a href="index.html"><img src="assets/img/logo-dark.png" alt="Softgen"></a>
+<a href="index.html"><img src="assets/img/logo/logo.png" alt="Softgen"></a>
 </div>
 <nav class="navigation-menu">
 <ul class="main-menu">
@@ -81,7 +81,7 @@
 </button>
 <div class="sidebar-content">
 <div class="site-logo">
-<a href="index.html"><img src="assets/img/logo-dark.png" alt="logo"></a>
+<a href="index.html"><img src="assets/img/logo/logo.png" alt="logo"></a>
 </div>
 <p>9621 Agnes Crossing, Lake Suzanneview, New Mexico Island 84604-9295.</p>
 <ul class="sidebar-info">

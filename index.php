@@ -6,7 +6,7 @@
 <meta name="description" content="Softgen Software and Technology HTML5 Template">
 <meta name="author" content="ThemeEaster">
 <title>Softgen | Software &amp; Technology HTML5 Template</title>
-<link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
+<link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/fa.png">
 <link rel="stylesheet" href="assets/css/bootstrap.min.css">
 <link rel="stylesheet" href="assets/css/animate.min.css">
 <link rel="stylesheet" href="assets/css/keyframe-animation.css">
@@ -180,36 +180,7 @@
 </div>
 </section>
 
-<section class="content-section">
-<img class="anim-illustration parallax-item" src="assets/img/element-1.png" alt="illustration">
-<img class="anim-illustration parallax-item bottom" src="assets/img/element-2.png" alt="illustration">
-<div class="container">
-<div class="row content-area padding">
-<div class="col-lg-6 sm-padding">
-<div class="content-img-holder">
-<div class="content-img wow fade-in-bottom" data-wow-delay="200ms"><img src="assets/img/uikit01.png" alt="img"></div>
-<div class="content-img wow fade-in-bottom" data-wow-delay="300ms"><img src="assets/img/uikit02.png" alt="img"></div>
-<div class="element parallax-item"><img src="assets/img/chat-illustration.png" alt="illustration"></div>
-</div>
-</div>
-<div class="col-lg-6 sm-padding">
-<div class="content-info">
-<div class="section-heading mb-30 wow fade-in-bottom" data-wow-delay="200ms">
-<h2>Manage Everything for <br>Brand and <span class="wow border-animation" data-wow-delay="500ms">Trademark!</span></h2>
-<p>Our success in creating business solutions is due in large part spacially to talented and highly committed team.</p>
-</div>
-<ul class="check-list mb-40 wow fade-in-bottom" data-wow-delay="300ms">
-<li><i class="las la-check"></i>Solutions &amp; Integration With Blockchain.</li>
-<li><i class="las la-check"></i>AI Machine &amp; Deep Learning</li>
-<li><i class="las la-check"></i>Over 100+ Payment Gateways Support</li>
-<li><i class="las la-check"></i>Dedicated Support 24/7</li>
-</ul>
-<a href="about.html" class="default-btn wow fade-in-bottom" data-wow-delay="400ms">How It Works</a>
-</div>
-</div>
-</div>
-</div>
-</section>
+
 
 <section class="project-section padding">
 <div class="container">
@@ -515,34 +486,6 @@
 </div>
 </section>
 
-<section class="cta-section bg-grey padding-bottom">
-<img class="anim-illustration parallax-item" src="assets/img/element-4.png" alt="illustration">
-<img class="anim-illustration parallax-item bottom" src="assets/img/element-5.png" alt="illustration">
-<div class="container">
-<div class="cta-wrap">
-<div class="cta-content">
-<h2 class="wow fade-in-bottom" data-wow-delay="200ms">Ready to Improve your <br> customer retention rate?</h2>
-<p class="wow fade-in-bottom" data-wow-delay="300ms">Our success in creating business solutions is due in large part spacially <br>to talented and highly committed team.</p>
-<div class="btn-group wow fade-in-bottom" data-wow-delay="400ms">
-<a href="contact.html" class="default-btn">Get started for free</a>
-<a class="play-btn venobox" data-vbtype="video" href="https://www.youtube.com/watch?v=ZLaG1migE00">
-<span class="play-icon"><svg aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
-<path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path>
-</svg></span>
-</a>
-</div>
-</div>
-<div class="animated-dots">
-<span class="dot lf-left-right"></span>
-<span class="dot lf-up-down"></span>
-<span class="dot lf-up-down"></span>
-<span class="dot lf-rotate-center"></span>
-<span class="dot lf-left-right"></span>
-<span class="dot lf-rotate-center"></span>
-</div>
-</div>
-</div>
-</section>
 
 <?php  include('include/footer.php'); ?>
 
